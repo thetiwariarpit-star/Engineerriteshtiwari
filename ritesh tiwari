@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Engineer Ritesh Tiwari | Civil Engineer</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f4f4f4;
+    color:#333;
+}
+header{
+    background:#1f3a5f;
+    color:#fff;
+    text-align:center;
+    padding:60px 20px;
+}
+header h1{
+    font-size:42px;
+}
+header p{
+    font-size:20px;
+}
+section{
+    max-width:1000px;
+    margin:auto;
+    padding:40px 20px;
+}
+.card{
+    background:#fff;
+    padding:25px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+h2{
+    color:#1f3a5f;
+}
+footer{
+    background:#1f3a5f;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Engineer Ritesh Tiwari</h1>
+<p>Civil Engineer | Building the Future with Quality & Innovation</p>
+</header>
+
+<section>
+
+<div class="card">
+<h2>About Me</h2>
+<p>
+I am a Civil Engineer dedicated to designing, planning, and supervising construction projects. My focus is on delivering safe, durable, and cost-effective infrastructure while maintaining the highest engineering standards.
+</p>
+</div>
+
+<div class="card">
+<h2>Services</h2>
+<ul>
+<li>Building Design & Planning</li>
+<li>Site Supervision</li>
+<li>Structural Consulting</li>
+<li>Quantity Surveying</li>
+<li>Project Management</li>
+<li>AutoCAD Drafting</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Skills</h2>
+<ul>
+<li>AutoCAD</li>
+<li>Civil 3D</li>
+<li>STAAD.Pro</li>
+<li>Quantity Estimation</li>
+<li>Construction Management</li>
+<li>MS Excel</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Contact</h2>
+<p>Email: your@email.com</p>
+<p>Phone: +91 XXXXXXXXXX</p>
+<p>Location: India</p>
+</div>
+
+</section>
+
+<footer>
+© 2026 Engineer Ritesh Tiwari | Civil Engineer
+</footer>
+
+</body>
+</html>
